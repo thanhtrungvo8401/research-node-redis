@@ -1,0 +1,17 @@
+{
+  "name": "research-node-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thanhtrungvo8401/research-node-redis.git",
+  "author": "trungvt <thanhtrungvo8401@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "redis": "^4.3.0",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
